@@ -1,6 +1,6 @@
 cask "filetally" do
-  version "1.0.1,1030.5"
-  sha256 "26a04a40a8443a5a50084104f11dbdb57fd6292d1e71640a35d01444a037c9c2"
+  version "1.1.0,1101.1"
+  sha256 "8c3cde51ca184a71304c9fb3d7bde9b062d2f3b450577f4c54d16518c2415b63"
 
   url "https://filetally.com/downloads/mac/#{version.csv.first}-#{version.csv.second}/FileTally-#{version.csv.first}-#{version.csv.second}-mac.zip"
   name "FileTally"
